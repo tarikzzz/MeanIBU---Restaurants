@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var routes = require('./api/routes');
 
 // Define the port to run on
-var port = normalizePort(process.env.PORT || '3000');
+var port = process.env.PORT || '3000';
 app.set('port', port);
 
 // Add middleware to console log every request
