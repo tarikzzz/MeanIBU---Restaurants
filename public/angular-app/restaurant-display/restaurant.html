@@ -3,10 +3,7 @@
 <p><small>{{ vm.restaurant.location.address }}</small></p>
 
 <p>{{ vm.restaurant.description }}</p>
-<p>This restaurant offers the following services:</p>
-<ul>
-  <li ng-repeat="service in vm.restaurant.services">{{ service }}</li>
-</ul>
+
 <h3>Reviews</h3>
 <ul>
   <li ng-repeat="review in vm.restaurant.reviews"> <strong>{{ review.name }} says:</strong> {{ review.review }}</li>
