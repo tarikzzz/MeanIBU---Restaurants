@@ -7,7 +7,7 @@
         "/photos/hotel/corinthiahotelbudapest/2.jpg",
         "/photos/hotel/corinthiahotelbudapest/3.jpg"
     ],
-    "currency": "HUF",
+    "currency": "BAM",
     "tables": [{
         "type": "Superior Double or Twin Room",
         "number": 20,
@@ -170,7 +170,7 @@
     "stars": 3,
     "description": "The newly opened, small and charming Karin hotel is situated in the green belt of Budapest, 10 km north of the city centre, and offers excellent public transport links and free parking.\nAir-conditioned and nicely furnished en-suite double tables with balconies and apartments provide for a peaceful night's rest. In the pleasant restaurant you can start every morning at the rich complimentary breakfast buffet.\nWireless internet access is available in the entire hotel free of charge.\n04. Újpest is a great choice for travellers interested in zoo, monuments and city trip.",
     "photos": ["/photos/hotel/hotelkarin/1.jpg", "/photos/hotel/hotelkarin/2.jpg"],
-    "currency": "HUF",
+    "currency": "BAM",
     "tables": [{
         "type": "Double or Twin Room",
         "number": 10,
@@ -296,7 +296,7 @@
     "stars": 5,
     "description": "Situated 700 metres from the Chain Bridge and Saint Stephen's Basilica, Kempinski Hotel Corvinus Budapest offers several restaurants, luxurious air-conditioned tables, and an indoor pool. Its architecture is a symbol of modern Budapest.\nThe elegant non-smoking tables at Hotel Kempinski Corvinus are all equipped with cable TV and free WiFi. They either feature views of the park, the city, or the Fashion Street.\nThe Nobu Restaurant serves delicious sushi and innovative Japanese dishes, while the ÉS Bisztró-Brasserie features a summer terrace and serves Hungarian and Viennese specialities. The Living Room is a classic coffeeshop with a modern twist. Drinks can be enjoyed at Blue Fox The Bar.\nKempinski The Spa, on second floor provides unique massages and body treatments with natural products. At no surcharge, guests can enjoy the sauna and the fitness centre.\nFrom the nearby underground and bus stops, guests can easily access all attractions. The Hungexpo Exhibition Centre is a 20-minute drive away.\n05. Belváros - Lipótváros is a great choice for travellers interested in shopping, history and food.",
     "photos": ["/photos/hotel/kempinskihotelcorvinusbudapest/1.jpg", "/photos/hotel/kempinskihotelcorvinusbudapest/2.jpg", "/photos/hotel/kempinskihotelcorvinusbudapest/3.jpg"],
-    "currency": "HUF",
+    "currency": "BAM",
     "tables": [{
         "type": "Corvinus Suite Collection",
         "number": 100,
