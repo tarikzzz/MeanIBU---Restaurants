@@ -1,9 +1,9 @@
 var mongoose = require('mongoose');
-var dburl = 'mongodb://localhost:27017/meanIBU';
+var dburl = process.env.MONGODB_URI || 'mongodb://localhost:27017/meanIBU';
 var retry = null;
 mongoose.connect(dburl);
 
-
+console.log(dburl);
 mongoose.connection.on('connected', function() {
   console.log('Mongoose connected to ' + dburl);
 });
