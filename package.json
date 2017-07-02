@@ -24,6 +24,9 @@
     "type": "git",
     "url": "git+https://github.com/tarikzzz/MeanIBU---Restaurants"
   },
+  "scripts": {
+  "start": "node app.js"
+  },
   "author": "tarikzzz",
   "keywords": [
     "mean",
