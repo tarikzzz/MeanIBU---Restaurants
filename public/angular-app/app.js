@@ -10,6 +10,14 @@ function config($httpProvider, $routeProvider) {
         restricted: false
       }
     })
+    .when('/login', {
+      templateUrl: 'angular-app/login/login.html',
+      controller: LoginController,
+      controllerAs: 'vm',
+      access: {
+        restricted: false
+      }
+    })
     .when('/restaurants', {
       templateUrl: 'angular-app/restaurant-list/restaurants.html',
       controller: RestaurantsController,
